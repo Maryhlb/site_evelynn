@@ -1,0 +1,300 @@
+.texto {
+    font-size: 160px;
+    font-family: 'Tiro Bangla', cursive;
+    color: white;
+    text-shadow: 4px 4px 0px rgba(0, 0, 0, 0.2);
+    text-align: 2;
+}
+
+h2 {
+    line-height: 0;
+    font-size: 645px;
+    color: #FFFFFF;
+}
+
+h3 {
+    position: absolute;
+    top: 700px;
+    left: 3500px;
+    width: 835px;
+    height: 680px;
+    font-size: 100px;
+    color: #FFFFFF;
+    line-height: 1;
+    font-family: 'Tiro Bangla', sans-serif;
+}
+
+#image {
+    position: absolute;
+    width: 828px;
+    height: 444px;
+    left: -496px;
+    top: -224px;
+    border-radius: 57px;
+}
+
+
+body {
+    background-color: #00010A;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+   }
+   
+   .rectangle {
+    width: 1180px;
+    height: 1800px;
+    background: linear-gradient(120deg, #000205, #00010A);
+    border-radius: 57px;
+    position: absolute;
+    top: 867px;
+    left: 4886px;
+   }
+
+   
+.canvas {
+    position: absolute;
+    width: 319px;
+    height: 865px;
+    top: 956;
+    left:1067;
+    
+}
+.text {
+    position:absolute;
+    top: 950px;
+    left:4935px;
+    font-size: 80px;
+    color: #FFFFFF;
+    width: 1100px
+}
+
+
+.imagem-button {
+    position: relative;
+    display: inline-block;
+   }
+   
+   .image-button img {
+ 
+    width:2678px;
+    height: 1500px;
+    border-radius: 57px;
+    position: absolute;
+    top: 1000px;
+    left: 1980px;
+   }
+
+
+   .imagem2 {
+    position: relative;
+    display: inline-block;
+   }
+
+   .imagem2 img {
+    width:600px;
+    height: 600px;
+    border-radius: 57px;
+    position: absolute;
+    top: 1850px;
+    left: -1900px;
+   }
+
+   
+   .imagem3 {
+    position: relative;
+    display: inline-block;
+   }
+
+
+   .imagem3 img {
+    width:400px;
+    height: 400px;
+    border-radius: 57px;
+    position: absolute;
+    top: 1945px;
+    left: -2300px;
+   }
+
+
+   .imagem4 {
+    position: relative;
+    display: inline-block;
+   }
+
+
+   .imagem4 img {
+    width:400px;
+    height: 400px;
+    border-radius: 57px;
+    position: absolute;
+    top: 500px;
+    left: -3900px;
+   }
+
+   
+
+
+   .imagem5 {
+    position: relative;
+    display: inline-block;
+   }  
+
+   .imagem5 img {
+    width:400px;
+    height: 400px;
+    border-radius: 57px;
+    position: absolute;
+    top: 500px;
+    left: -3100px;
+   }
+
+
+   .imagem6 {
+    position: relative;
+    display: inline-block;
+   }  
+
+   .imagem6 img {
+    width:400px;
+    height: 400px;
+    border-radius: 57px;
+    position: absolute;
+    top: 1200px;
+    left: -3900px;
+
+   }
+
+   .imagem7 {
+    position: relative;
+    display: inline-block;
+   }  
+
+
+   .imagem7 img {
+    width:400px;
+    height: 400px;
+    border-radius: 57px;
+    position: absolute;
+    top: 1200px;
+    left: -3100px;
+   }
+
+
+   .imagem8 {
+    position: relative;
+    display: inline-block;
+   }  
+
+
+   .imagem8 img {
+    width:400px;
+    height: 400px;
+    border-radius: 57px;
+    position: absolute;
+    top: 1900px;
+    left: -3950px;
+   }
+
+
+   
+.text2 {
+    position:absolute;
+    top: 1500px;
+    left:460px;
+    font-size: 100px;
+    color: #FFFFFF;
+    width: 1100px
+}
+
+.text3 {
+    position:absolute;
+    top: 1500px;
+    left:1390px;
+    font-size: 100px;
+    color: #FFFFFF;
+    width: 1100px
+}
+
+.text4 {
+    position:absolute;
+    top: 2200px;
+    left:560px;
+    font-size: 100px;
+    color: #FFFFFF;
+    width: 1100px
+}
+
+.text5 {
+    position:absolute;
+    top: 2200px;
+    left:1390px;
+    font-size: 100px;
+    color: #FFFFFF;
+    width: 1100px
+}
+
+.text6 {
+    position:absolute;
+    top: 2890px;
+    left:560px;
+    font-size: 100px;
+    color: #FFFFFF;
+    width: 1100px
+}
+
+
+.text7 {
+    position:absolute;
+    top: 2820px;
+    left: 2090px;
+    font-size: 70px;
+    color: #FFFFFF;
+    width: 1100px
+}
+.text8 {
+    position:absolute;
+    top: 2890px;
+    left:2050px;
+    font-size: 70px;
+    color: #D6C534;
+    width: 1100px
+}
+.text9 {
+    position:absolute;
+    top: 2820px;
+    left:2500px;
+    font-size: 70px;
+    color: #FFFFFF;
+    width: 1100px
+}
+.text10 {
+    position:absolute;
+    top: 2890px;
+    left:2590px;
+    font-size: 70px;
+    color: #D6C534;
+    width: 1100px
+}
+
+
+.circle-button {
+    display: inline-block;
+    background-color: #008CBA;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 90px;
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    border-radius: 50%;
+    transition: background-color 0.3s;
+    cursor: pointer;
+   }
+   
+   .circle-button:hover {
+    background-color: #007B9A;
+   }
